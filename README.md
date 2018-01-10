@@ -1,6 +1,6 @@
 # Excel2iCal
 Exports excel data of birthdays and further information to iCal calender format for calendar import  
-Events will be set as 'all day' with yearly repitition  
+Events will be set as 'all day' with yearly repetition  
   
 Exportiert Exceldaten von Geburtstagen und weitere Angaben ins iCal Format für den Import in Kalender  
 Die Termine werden als ganztägig  mit jährlicher Wiederholung gesetzt  
