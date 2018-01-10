@@ -1,10 +1,15 @@
 # Excel2iCal
 Exports excel data of birthdays and further information to iCal calender format for calendar import  
+Events will be set as 'all day' with yearly repitition  
 Exportiert Exceldaten über Geburtstage und weitere Angaben ins iCal Format für den Import in Kalender  
+Die Termine werden als ganztägig  mit jährlicher Wiederholung gesetzt  
   
   
 ### Screenshot of Excel2iCal.xlsm  
 ![Screenshot](Excel2iCal.png?raw=true "Screenshot") 
+  
+### Screenshot of one event after import in gmx  
+![Screenshot](Excel2iCal_import.png?raw=true "Screenshot") 
   
   
 ### Output result.ics  
